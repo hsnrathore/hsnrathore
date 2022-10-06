@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsnrathore
 - 👀 I’m interested in DevOps and Kubernetes
-- 🌱 I’m currently learning AWS DevOps
+- 🌱 I’m currently working on AWS DevOps
 - 💞️ I’m looking to collaborate on DevOps and Kubernetes projects
 - 📫 How to reach me hsnrathore@gmail.com
 
